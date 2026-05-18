@@ -11,7 +11,6 @@ A collection of college assignments, notes, practice files, and mini-projects cr
 * Assignments
 * Lab work
 * Practice programs
-* Mini projects
 * Miscellaneous experiments
 
 ## Usage
